@@ -1,4 +1,4 @@
-# Olá! 👋 Me chamo Yan
+# Olá! 👋 Me chamo Yan.
 
 ## 🌱 Atualmente estudando no curso de Ciência da Computação pelo IFMA:
 - Programação Orientada a Objetos (em Java)
