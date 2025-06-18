@@ -1,11 +1,11 @@
-# Olá! 👋 Eu sou o Vinícius Yan
+# Olá! 👋 Me chamo Yan
 
-## 🌱 Atualmente estudando:
-- Programação Orientada a Objetos (Java)
-- Estruturas de Dados
+## 🌱 Atualmente estudando no curso de Ciência da Computação pelo IFMA:
+- Programação Orientada a Objetos (em Java)
+- Estruturas de Dados II
 
 ## 📂 Projetos e Atividades:
-- [Exercícios de POO em Java](https://github.com/seu-usuario/poo-java-exercicios)
+- [Exercícios de POO em Java](https://github.com/vinyanw/poo-java-exercicios)
 - [Outros Projetos](https://github.com/seu-usuario?tab=repositories)
 
 ## 📫 Como me encontrar:
