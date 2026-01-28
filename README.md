@@ -1,6 +1,6 @@
 # Olá! 👋 Me chamo Yan.
 
-## 🌱 Atualmente estudando no curso de Ciência da Computação pelo IFMA:
+## 🌱 Atualmente estudando no curso de Ciência da Computação:
 - Programação Orientada a Objetos (em Java)
 - Estruturas de Dados II
 
