@@ -1,8 +1,6 @@
 # Olá! 👋 Me chamo Yan.
 
 ## 🌱 Atualmente estudando no curso de Ciência da Computação:
-- Programação Orientada a Objetos (em Java)
-- Estruturas de Dados II
 
 ## 📂 Projetos e Atividades:
 - [Exercícios de POO em Java](https://github.com/vinyanw/poo-java-exercicios)
